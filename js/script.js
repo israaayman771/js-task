@@ -1,10 +1,19 @@
-console.log("Hello World")
-var color="red";
+//choosen color /string
+var choosenColor="red";
+console.log(choosenColor);
 
+//subscribed to a newsletter /boolean
 var isSupscribed= true;
+console.log(isSupscribed);
 
-var calc= 25;
+//Calculating the area of a rectangle /number
+var CalculatinRectangle= 25;
+console.log(CalculatinRectangle);
 
-var messege="Welcome";
+//a welcome message /string
+var welcomeMessage="Welcome";
+console.log(welcomeMessage);
 
+//Checking password /number
 var password= 123456789;
+console.log(password);
